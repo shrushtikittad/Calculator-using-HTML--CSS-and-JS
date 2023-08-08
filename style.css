@@ -1,0 +1,31 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    background-color: rgb(54, 53, 53);
+    padding: 20px;
+    margin: 0 1px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    /* align-items: center; */
+}
+
+.zero-button{
+    width: 125px;
+}
+
+.orange-button{
+    background-color: rgb(255, 166, 1);
+}
+
+.gray-button{
+    color: black;
+    background-color: rgb(218, 213, 213);
+}
